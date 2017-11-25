@@ -38,6 +38,8 @@ set smartindent
 set autoread
 set list
 set listchars=tab:>-
+set ts=4
+set expandtab
 
 set nobackup
 set noswapfile
