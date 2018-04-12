@@ -49,6 +49,8 @@ set foldmethod=marker
 
 set clipboard+=unnamed
 
+set nocscopeverbose " Fobbiden duplcated add cscope.out database
+
 let mapleader = ","
 let maplocalleader = ","
 map <silent> <leader>e :e $VIM/.vimrc<cr>
